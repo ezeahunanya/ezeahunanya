@@ -1,7 +1,7 @@
-title: Hi, I'm Eze! Welcome to my domain!
-status: hidden
+Title: Hi, I'm Eze! Welcome to my domain!
+Status: hidden
 save_as: index.html
-category: Page
+Category: Page
 
 
 If I had one superpower, it would be the ability to learn quickly. Let me
