@@ -1,7 +1,7 @@
-title: Projects
-category: Page
-status: hidden
-slug: projects
+Title: Projects
+Category: Page
+Status: hidden
+Slug: projects
 
 **[Marvel Cinematic Universe Movie Ratings](https://github.com/ezeahunanya/marvel_cinematic_universe_movie_ratings)**  
 Exploring the ratings of movies in the Marvel Cinematic Universe.
