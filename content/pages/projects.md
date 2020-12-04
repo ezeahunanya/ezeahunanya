@@ -1,23 +1,19 @@
 title: Projects
 category: Page
+status: hidden
 slug: projects
 
-[Marvel Cinematic Universe Movie Ratings](https://github.com/ezeahunanya/marvel_cinematic_universe_movie_ratings)
-
+**[Marvel Cinematic Universe Movie Ratings](https://github.com/ezeahunanya/marvel_cinematic_universe_movie_ratings)**  
 Exploring the ratings of movies in the Marvel Cinematic Universe.
 
-[Baywheels Data Exploration](https://github.com/ezeahunanya/baywheels_data_exploration)
-
+**[Baywheels Data Exploration](https://github.com/ezeahunanya/baywheels_data_exploration)**  
 Exploring data for bike sharing platform.
 
-[Wrangle And Analyse Data](https://github.com/ezeahunanya/wrangle-and-analyse-data)
-
+**[Wrangle And Analyse Data](https://github.com/ezeahunanya/wrangle-and-analyse-data)**  
 Gathering dog ratings data from twitter API and cleaning quality and tidiness issues.
 
-[Analyse A/B Test Results](https://github.com/ezeahunanya/analyse-ab-test-results)
+**[Analyse A/B Test Results](https://github.com/ezeahunanya/analyse-ab-test-results)**  
+Exploring results of an AB experiment for a new company webpage.
 
-Exploring results of an AB experiment for a new company webpage
-
-[Investigate A Dataset](https://github.com/ezeahunanya/investigate-a-dataset)
-
+**[Investigate A Dataset](https://github.com/ezeahunanya/investigate-a-dataset)**  
 Investigating 100K medical records in Brazil for characteristics of no show appointments.
