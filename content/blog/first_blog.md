@@ -1,11 +1,11 @@
-title: First time for everything (Marvel Cinematic Universe Movie Ratings)
-date: 2020-11-22 17:39
-modified: 2020-12-03 23:16
-category: Blog
-tags: python, data science, pelican, publishing
-slug: first_blog
-author: Eze Ahunanya
-summary: This is new. Writing a blog. Who would have thought it? Not me. But here we are.
+Title: First time for everything (Marvel Cinematic Universe Movie Ratings)
+Date: 2020-11-22 17:39
+Modified: 2020-12-03 23:16
+Category: Blog
+Tags: python, data science, pelican, publishing
+Slug: first_blog
+Author: Eze Ahunanya
+Summary: This is new. Writing a blog. Who would have thought it? Not me. But here we are.
 
 This is new. Writing a blog. Who would have thought it? Not me. But here we are.
 
