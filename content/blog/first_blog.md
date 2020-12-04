@@ -3,7 +3,7 @@ Date: 2020-11-22 17:39
 Modified: 2020-12-03 23:16
 Category: Blog
 Tags: python, data science, pelican, publishing
-Slug: first_blog
+Slug: first_time_for_everything
 Author: Eze Ahunanya
 Summary: This is new. Writing a blog. Who would have thought it? Not me. But here we are.
 
@@ -89,7 +89,6 @@ looked like this:
                 runtime = (soup.find_all('li', class_='meta-row clearfix')[9]
                           .contents[3].text.split('\n')[2].replace(' ', ''))
                 df['runtime'] = pd.Series([runtime] * len(df['index']))
-
 This block of code was repeated for the second URL and following ones.
 The results were concatenated together in one DataFrame.
 
@@ -122,8 +121,8 @@ the 9th element had the runtime information.
 
 To fix this, I had to figure out how to make the code search for specific movie
 attributes and put them into the correct columns. I did consider scrapping the
-box office column which had the problem to avoid it altogether. But I'm a slag
-for a good challenge. After a day or two, I solved the issue by searching for
+box office column which had the problem to avoid it altogether. But I love
+a good challenge. After a day or two, I solved the issue by searching for
 the attribute name before pulling the data. The more robust code looks like
 this:
 
@@ -176,5 +175,5 @@ result:
 Once I finished the project, I decided to write a blog about the process. I
 also figured that a website to host this blog and future blogs would be a neat
 touch. I have never made a website before so I guess I have a bit of learning
-to do then a lot of work. Anyways, not bad for my first blog. P.S. Someone said
-Ashmela swims in circles, personally I wouldn't have it.
+to do, then a lot of work. Anyways, not bad for my first blog. P.S. If you are
+reading this, mission complete.
