@@ -3,7 +3,13 @@
 
 AUTHOR = 'Eze Ahunanya'
 SITENAME = 'Eze Ahunanya'
-SITEURL = ''
+SITETITLE = 'Eze Ahunanya'
+SITESUBTITLE = 'Learning is a lifelong process'
+SITEURL = 'http://localhost:8000'
+# SITELOGO = ''
+# FAVICON = '/images/favicon.ico'
+BROWSER_COLOR = "#333333"
+PYGMENTS_STYLE = "monokai"
 
 PATH = 'content'
 
@@ -19,20 +25,25 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Email', 'mailto: ezeahunanya@outlook.com'),
+LINKS = (('ezeahunanya@outlook.com', 'mailto: ezeahunanya@outlook.com'),
          )
 
 # Social widget
-SOCIAL = (('LinkedIn', 'https://www.linkedin.com/in/ezeahunanya//'),
-         ('GitHub', 'https://github.com/ezeahunanya'),)
-
-
+SOCIAL = (
+    ('linkedin', 'https://www.linkedin.com/in/ezeahunanya/'),
+    ('github', 'https://github.com/ezeahunanya'),
+)
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+THEME = "/Users/user/OneDrive/Documents/projects/pelican-themes/Flex"
 
 INDEX_SAVE_AS = 'blog/index.html'
+
+USE_FOLDER_AS_CATEGORY = False
+MAIN_MENU = True
+HOME_HIDE_TAGS = True
 
 DISPLAY_CATEGORIES_ON_MENU = False
 
@@ -45,6 +56,12 @@ PAGE_SAVE_AS = '{slug}/index.html'
 
 ARTICLE_PATHS = ['blog']
 
-MENUITEMS = [
- ('Home', '/'),
- ('Blog', '/blog'),]
+MENUITEMS = (
+ ('Blog', '/blog'),
+ ('Projects', '/projects'),
+)
+
+THEME_COLOR_AUTO_DETECT_BROWSER_PREFERENCE = True
+THEME_COLOR_ENABLE_USER_OVERRIDE = True
+
+USE_LESS = True
