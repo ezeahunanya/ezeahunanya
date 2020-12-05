@@ -1,6 +1,5 @@
 Title: Projects
 Category: Page
-Status: hidden
 Slug: projects
 
 **[Marvel Cinematic Universe Movie Ratings](https://github.com/ezeahunanya/marvel_cinematic_universe_movie_ratings)**  
