@@ -55,7 +55,7 @@ PAGE_SAVE_AS = '{slug}/index.html'
 ARTICLE_PATHS = ['blog']
 
 MENUITEMS = (
- ('Blog', '/'),
+ ('About', '/about'),
  ('Projects', '/projects'),
 )
 
