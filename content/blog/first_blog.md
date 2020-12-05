@@ -17,17 +17,15 @@ interesting and suitable with my interests and transferable skills. I decided
 to learn Python to improve my technical coding skills and help me
 break into data science. With a recommendation from a friend of a friend, I
 completed Udacity's Data Analyst Nanodegree. I also completed a few projects
-in the process which gave me a solid understanding of Python. I was now ready
-to take on the job market... but things just did not go. Covid-19 hit the world,
-the lockdown came and went, and just like that, months passed by with not a
-single line of code written.
+in the process which gave me a solid understanding of Python. Then covid-19
+hit the world and the lockdown with it. Things slowed down for me but I made
+sure to keep practising.
 
-To get the ball rolling again and knock off the rust, I decided to do an
-independent project. And with talks of an impending second lockdown, I wanted
-the project to be movie related as I knew a lot my friends spent a significant
-amount of time on streaming platforms in the first lockdown. As I thoroughly
-enjoyed the movies in the marvel cinematic universe the choice was pretty
-obvious to me.
+To knock off some rust, I decided to do an independent project. And with talks
+of an impending second lockdown, I wanted the project to be movie related as I
+knew a lot my friends spent a significant amount of time on streaming platforms
+in the first lockdown. As I thoroughly enjoyed the movies in the marvel
+cinematic universe the choice was pretty obvious to me.
 
 The first challenge I faced, was gathering the data. I knew I could
 find the relevant data on the RottenTomatoes website but I had never scraped
