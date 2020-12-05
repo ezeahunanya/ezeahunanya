@@ -39,8 +39,6 @@ DEFAULT_PAGINATION = 10
 #RELATIVE_URLS = True
 THEME = "/Users/user/OneDrive/Documents/projects/pelican-themes/Flex"
 
-INDEX_SAVE_AS = 'blog/index.html'
-
 USE_FOLDER_AS_CATEGORY = False
 MAIN_MENU = True
 HOME_HIDE_TAGS = True
