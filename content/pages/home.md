@@ -1,7 +1,8 @@
-Title: Hi, I'm Eze! Welcome to my domain!
+Title: About
 Category: Page
 Slug: about
 
+## Hi, I'm Eze! Welcome to my domain!
 If I had one superpower, it would be the ability to learn quickly. Let me
 explain. I believe that personality traits and intelligence can be developed.
 And people grow through application and experience. The only thing between
@@ -9,8 +10,6 @@ my current self and the best version of myself I want to become is learning thro
 experience. So it follows that learning quickly would get me there faster. It's
 a good thing that this 'superpower' isn't exclusive to superheroes.
 
-
-## About Me  
 My mission in life is to always keep learning and evolving to keep inching
 closer towards my full potential. I hold the following personal values:
 
