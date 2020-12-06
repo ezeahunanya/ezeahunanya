@@ -2,11 +2,11 @@
 This project contains the source code files for my personal blog. I used
 pelican to create the html files for the webpages.
 
-To view my blog please visit [ezeahunanya.com](ezeahunanya.com) or [ezeahunanya.github.io](ezeahunanya.github.io).
+To view my blog please visit [ezeahunanya.com](https://ezeahunanya.com) or [ezeahunanya.github.io](https://ezeahunanya.github.io).
 
 ## Installation
 
-To run create the output files used for my website python needs to be installed.
+To create the output files used for my website python needs to be installed.
 Pelican and markdown also needs to be installed. Anaconda will install python.
 
 Anaconda is available for Windows, Mac OS X, and Linux. You can find the installers at https://www.anaconda.com/download/ and the installation instructions [here](https://docs.anaconda.com/anaconda/install/).
