@@ -2,7 +2,7 @@
 This project contains the source code files for my personal blog. I used
 pelican to create the html files for the webpages.
 
-To view my blog please visit <ezeahunanya.com> or <ezeahunanya.github.io>.
+To view my blog please visit [ezeahunanya.com](ezeahunanya.com) or [ezeahunanya.github.io](ezeahunanya.github.io).
 
 ## Installation
 
