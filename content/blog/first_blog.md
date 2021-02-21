@@ -9,19 +9,15 @@ Summary: This is new. Writing a blog. Who would have thought it? Not me. But her
 
 This is new. Writing a blog. Who would have thought it? Not me. But here we are.
 
-My story starts as a fresh graduate with a master's degree from Loughborough
-University. A master of Chemical Engineering apparently, but zero ideas of what I
-wanted to do. After stumbling for the better part of a year, I came across data
+After graduating from a Chemical Engineering masters, I came across data
 science while researching my career options. An area which seemed
 interesting and suitable with my interests and transferable skills. I decided
 to learn Python to improve my technical coding skills and help me
 break into data science. With a recommendation from a friend of a friend, I
 completed Udacity's Data Analyst Nanodegree. I also completed a few projects
-in the process which gave me a solid understanding of Python. Then covid-19
-hit the world and the lockdown with it. Things slowed down for me but I made
-sure to keep practising.
+in the process which gave me a solid understanding of Python.
 
-To knock off some rust, I decided to do an independent project. And with talks
+I decided to do an independent project. And with talks
 of an impending second lockdown, I wanted the project to be movie related as I
 knew a lot my friends spent a significant amount of time on streaming platforms
 in the first lockdown. As I thoroughly enjoyed the movies in the marvel
