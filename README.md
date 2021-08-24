@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Eze.
 - :man_student: I studied Chemical Engineering at Loughborough university.
-- :brain: I’m interested in data science which I'm currently learning about.
+- :brain: I'm currently learning about data science.
 - 📫 You can reach me via email or on LinkedIn
 
 Contact  |  Details
