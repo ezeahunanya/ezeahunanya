@@ -12,6 +12,6 @@ Email | ezeahunanya@outlook.com
 
 #  Contents
 1. [Autotrader](https://github.com/ezeahunanya/autotrader)
-   - [Scraper](https://github.com/ezeahunanya/autotrader/autotrader_scraper)
+   - [Scraper](https://github.com/ezeahunanya/autotrader/tree/master/autotrader_scraper)
 
 - 👀 Projects coming soon steelee
