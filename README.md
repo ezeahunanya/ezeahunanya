@@ -11,4 +11,7 @@ LinkedIn | https://www.linkedin.com/in/ezeahunanya/
 Email | ezeahunanya@outlook.com
 
 #  Contents
+1. [Autotrader](https://github.com/ezeahunanya/autotrader)
+   - [Scraper](https://github.com/ezeahunanya/autotrader/autotrader_scraper)
+
 - 👀 Projects coming soon steelee
