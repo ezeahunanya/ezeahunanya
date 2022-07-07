@@ -11,5 +11,6 @@ Email | ezeahunanya@outlook.com
 
 #  Contents
 1. [Autotrader](https://github.com/ezeahunanya/autotrader)
+2. [Insight](https://www.insightviz.com/)
 
 - 👀 Projects coming soon steelee
