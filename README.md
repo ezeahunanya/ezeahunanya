@@ -1,7 +1,8 @@
 # Background
 
-- 👋 Hi, I’m Eze.
+- 👋 Hi, I’m [Eze](https://www.ezeahunanya.com/).
 - :brain: I'm currently exploring coding.
+- :bookmark_tabs: Check out my [portfolio](https://www.ezeahunanya.com/)
 - :speech_balloon: I'm familiar with python, html, css, javascript (react/nextjs) and sql.
 - 📫 You can reach me via email or on LinkedIn
 
